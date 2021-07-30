@@ -1,0 +1,34 @@
+﻿Module 1:What is Code?                                                        Burnaur James 
+1.         In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max) 
+For a computer an “a” means nothing. When the ”a” shows up on the screen, the computer literally pulls an image of the “a” out of its memory as a part of a font which is made up of lines and circles. Then, it renders lines and circles in a small box of pixels that manages the screen. Thus, it comprises 3 representations: the letter on the keyboard, version in the memory, and line and circles sketched on the screen.
+ 
+2.         In your own words, how do computers use input and output to create experiences? (250 words max) 
+The computer rests between the input and output. Without an input there is no output. Once information is inputted into the computer, a program processes the information and digitizes an output on the screen. The input is a communication to the computer and the output would be the response. Therefore, things respond and change according to the input. For example, a bank teller inputs an account number into the computer and the account balance shows on the screen.
+ 
+3.         Explain why software products are essentially “infinitely reproducible nothings.” (150 words max) 
+“Infinitely reproducible nothings” is another way of saying very expensive air. 
+In the beginning of computer time, hardware was sold with specific programs such as Microsoft office. However as time went, software became separated from the hardware and more easily accessible and free-to-use Web-based applications such as Google Apps. Therefore, infinitely reproducible. Before it was about the computer (hardware) that you bought but now it is about the readily accessible software.
+ 
+ 
+4.         Explain in your own words how code becomes software. (150 words max)
+Coding is like any other activity we perform. The idea of coding for developers is lines of code in files. A code is inactive until you run software that transforms it into machine language. It then becomes an explicit list of instructions that can be carried out by interconnected logic-gates transforming it into software.
+ 
+5.         Explain “algorithms” in your own words. (150 words max) 
+An algorithm is used to solve problems. In other words, algorithms can be pure, mathematical entities as well as practical expressions of ideas. For example, if I want to solve a long division or bake a cake, the algorithm would be the steps in solving the long division or the recipe to bake the cake.
+ 
+6.         Explain the DRY principle. (100 words max) 
+For programmers the DRY principle is another way of being straightforward to ensure the code is written once and not repeated. “In other words, the principle is that you should name things once, do things once, create a function once, and let the computer repeat itself.”
+ 
+7.         In your own words, what is object-oriented programming? (100 words max)
+Object oriented programming is an organized system for filing codes. Codes need to be organized to prevent dangerous bugs or malfunctions. It helps programmers to track codes by name or file group.
+8.         In your own words explain data and how it relates to code. (100 Words max)
+The relationship between code and date is similar to that of the concept of input and output. Codes require data, for example the letter “a” is a form of data that the computer memorizes and with specific language or instructions the value of the letter “a” can change depending on the coding. In my perspective of the two, they are similar to the concept of “the chicken and the egg.”
+ 
+9.         What is a framework? (150 words max) 
+A framework  is a  fundamental platform where developers frame specific programs to create software programs. There is a huge ambiguity in describing a framework at an generic level because most frameworks are attached to specific programs such as the MacOS framework which is specific to the Apple brand.
+ 
+10.  What is debugging? (150 words max) 
+Debugging is a way to identify and remove possible errors from a software. There is an infinite possibility of how a program could develop a bug and it is the programmer duty to identify the “fire” and put it out when it starts or before it starts. Debugging is kind of like a fail-safe in the likelihood of malfunction of a software.
+ 
+11.  Now, with more of an understanding of what code is, why do you want to learn how to code?
+“If coders don’t run the world, they run the things that run the world.” For me, those were very powerful words from the passage I read. My interest in coding was simply to understand the logic and language behind the functions of  computer softwares, and it still is. However, I’ve learned that there is a magnitude of power that is paid to know in computer literacy which, for me, is exciting to learn. Computer software literacy or coding is literally in everything we touch in our current society. It is in how we communicate with each other and serves within all functions of modern day jobs. I believe the process of becoming a Coder might be difficult but the rewards out-way the process. Therefore, after reading through the narrative of “What is Code?,”I have expanded my interest in the field and am excited to unveil more information as I progress through this program.
